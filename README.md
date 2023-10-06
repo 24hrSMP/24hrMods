@@ -29,6 +29,7 @@ Press `v` *default* in game to configure your Microphone & Speakers.
 ![voiceChat.png](https://github.com/24hrSMP/24hrMods/blob/main/voiceChat.png?raw=true)
 
 # Season 5 Mod List (Fabric)
+- [Advancement Info](https://modrinth.com/mod/advancementinfo)
 - [Auth Me](https://modrinth.com/mod/auth-me)
 - [Bobby](https://modrinth.com/mod/bobby)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
