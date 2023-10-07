@@ -54,3 +54,4 @@ Press `v` *default* in game to configure your Microphone & Speakers.
 
 ***Mods that provide an unfair advantage are not allowed on the server. If you are unsure if a mod is allowed please ask a staff member.***<br>
 *ie. Xray, Auto Clickers, Health Indicators, etc.*
+*Minimaps are allowed as long as it's a 'fair-play' version, example:* [Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair)
